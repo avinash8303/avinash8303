@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @avinash8303
-- 👀 I’m interested in DSA
+- 👋 Hi, I’m Avinash Kumar tripathi 
+- 👀 I’m interested in DSA and pythons 
 - 🌱 I’m currently learning b.tech IT
 - 💞️ I’m looking to collaborate on IBM
 - 📫 How to reach me 
