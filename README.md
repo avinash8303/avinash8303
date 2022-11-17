@@ -2,7 +2,7 @@
 - 👀 I’m interested in DSA and pythons 
 - 🌱 I’m currently learning b.tech IT
 - 💞️ I’m looking to collaborate on IBM
-- 📫 How to reach me 
+- 📫 How to reach me tripathiavinash860@gmail.com
 
 <!---
 avinash8303/avinash8303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
