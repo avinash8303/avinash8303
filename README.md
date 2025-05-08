@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avinash Kumar tripathi 
-- 👀 I’m interested in DSA and pythons 
+- 👀 I’m interested in DSA and java  
 - 🌱 I’m currently learning b.tech IT
-- 💞️ I’m looking to collaborate on IBM
+- 💞️ I’m looking to collaborate with IBM
 - 📫 How to reach me tripathiavinash860@gmail.com
 
 <!---
