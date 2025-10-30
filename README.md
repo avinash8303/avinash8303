@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avinash Kumar tripathi 
-- 👀 I’m interested in DSA and java  
+- 👀 I’m interested in MERN Stack   
 - 🌱 I’m currently learning b.tech IT
-- 💞️ I’m looking to collaborate with IBM
+- 💞️ I’m looking for the internship and job 
 - 📫 How to reach me tripathiavinash860@gmail.com
 
 <!---
