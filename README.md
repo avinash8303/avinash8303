@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash Kumar tripathi 
-- 👀 I’m interested in MERN Stack   
-- 🌱 I’m currently learning b.tech IT
+- 👀 I’m interested in Data Analyst  
+- 🌱 I’m currently Complete b.tech IT
 - 💞️ I’m looking for the internship and job 
 - 📫 How to reach me tripathiavinash860@gmail.com
 
